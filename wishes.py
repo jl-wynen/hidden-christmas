@@ -3,9 +3,9 @@
                               ([print(
                            any(map(lambda s
                         :print ('\u2588' if s 
-                     else' ',end=''),(0.5<(y //(
+                     else' ',end=''),(y //(
                            17*D**(17*x+ y%
-                       17))) %2 for x in range
+                       17)) %2 for x in range
                      (0,106))))*'o')for y in map
                   (lambda g:int(c,16)*(setattr(__builtins__, 'D', 2), 16)[-1] ** (e+17)*
                0x198+g,range(16,-1,-1))] for c,e in ((
